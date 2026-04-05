@@ -1,8 +1,32 @@
-## Marvin Adu — Data Analyst
+# Marvin Adu — Data Analyst & ML Developer
 
-Currently building an end-to-end retail analytics project:
-EDA → Random Forest → XGBoost → Streamlit deployment
+BSc Games Design graduate transitioning into data. 
+I build end-to-end data projects using Python, SQL, 
+and machine learning — focused on turning raw data 
+into business insights.
 
-Stack: Python · PostgreSQL · Pandas · Scikit-learn · XGBoost
+---
 
-Open to junior data analyst and data science roles in London
+## What I'm currently building
+
+**Superstore Sales Analytics** — an end-to-end retail ML pipeline:
+- Exploratory Data Analysis (complete)
+- Profit Prediction with Random Forest — R² 0.68, MAE £28.80 (complete)
+- XGBoost model + comparison (in progress)
+- Streamlit deployment (upcoming)
+
+---
+
+## Tools & Stack
+
+**Languages:** Python · SQL  
+**Libraries:** Pandas · Scikit-learn · XGBoost · Matplotlib · Seaborn  
+**Database:** PostgreSQL · SQLAlchemy  
+**Other:** Git · GitHub · Jupyter · VS Code
+
+---
+
+## How to reach me
+
+📧 M.Adu1@Outlook.com  
+💼 [LinkedIn](your-linkedin-url-here)
