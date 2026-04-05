@@ -2,8 +2,7 @@
 
 BSc Games Design graduate transitioning into data. 
 I build end-to-end data projects using Python, SQL, 
-and machine learning — focused on turning raw data 
-into business insights.
+and machine learning
 
 ---
 
