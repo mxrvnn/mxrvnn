@@ -11,7 +11,7 @@ and machine learning
 **Superstore Sales Analytics** — an end-to-end retail ML pipeline:
 - Exploratory Data Analysis (complete)
 - Profit Prediction with Random Forest — R² 0.68, MAE $28.80
-- XGBoost model + comparison (in progress)
+- XGBoost model + comparison
 - Streamlit deployment (upcoming)
 
 ---
