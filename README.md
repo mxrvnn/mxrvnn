@@ -27,5 +27,5 @@ and machine learning
 
 ## How to reach me
 
-📧 M.Adu1@Outlook.com  
-💼 [LinkedIn](your-linkedin-url-here)
+M.Adu1@Outlook.com  
+[LinkedIn](your-linkedin-url-here)
