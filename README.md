@@ -19,7 +19,7 @@ and machine learning
 ## Tools & Stack
 
 **Languages:** Python · SQL  
-**Libraries:** Pandas · Scikit-learn · XGBoost · Matplotlib · Seaborn  
+**Libraries:** Pandas · Scikit-learn · XGBoost · Matplotlib · Seaborn · PyTorch
 **Database:** PostgreSQL · SQLAlchemy  
 **Other:** Git · GitHub · Jupyter · VS Code
 
